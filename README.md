@@ -41,30 +41,37 @@ seaborn>=0.12.0
 
 ---
 
-## 💻 Installation
+### Installation
 
-To run this application locally:
+1.  **Clone the repository:**
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/wijdanehr08/gradient-descent-app.git
-cd gradient-descent-app
+    ```bash
+    git clone https://github.com/wijdanehr08/gradient-descent-app.git
+    cd gradient-descent-app
+    ```
 
-# 2. Create and activate a virtual environment
-# On Windows
-python -m venv venv
-venv\Scripts\activate
+2.  **Create and activate a virtual environment:**
 
-# On macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
+    ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+    ```
 
-# 3. Install dependencies
-pip install -r requirements.txt
+3.  **Install dependencies:**
 
-# 4. Run the Streamlit app
-streamlit run app.py
+    ```bash
+   pip install -r requirements.txt
+    ```
 
-# The app will open in your browser at:
-# http://localhost:8501
+4.  **Run the Streamlit app:**
+
+    ```bash
+   streamlit run app.py
+    ```
+
+5.  **The app will open in your browser at:**
+
+    ```bash
+   (http://localhost:8501)
+    ```
 
