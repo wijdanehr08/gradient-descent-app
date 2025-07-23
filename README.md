@@ -15,7 +15,21 @@ A user-friendly Streamlit web app to explore and visualize **Gradient Descent** 
 - 💾 Export results (trained model, preprocessing steps, performance metrics)
 
 ---
+## 🖼️ Screenshots
 
+###  Upload Dataset
+<img width="960" height="508" alt="image" src="https://github.com/user-attachments/assets/7d8a3d94-ff65-4e1a-a146-8a4943b62c58" />
+
+
+### 📊 Visualizations & Preprocessing
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/bc9513d8-a611-4235-a5f4-49e13cec4f02" />
+
+
+### 🧠 Training AI model 
+<img width="956" height="508" alt="image" src="https://github.com/user-attachments/assets/1462ea73-ef38-41a7-96bd-ad37e6af534f" />
+
+
+---
 ## 🛠️ Built With
 
 - **Python 3.11+**
