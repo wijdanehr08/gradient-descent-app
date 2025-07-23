@@ -41,6 +41,18 @@ seaborn>=0.12.0
 
 ---
 
+## 💻 Installation
+
+Set up the project locally in a few steps:
+
+---
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/wijdanehr08/gradient-descent-app.git
+cd gradient-descent-app
+
 ### Installation
 
 1.  **Clone the repository:**
