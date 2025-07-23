@@ -1,8 +1,9 @@
- 🧠 Gradient Descent Visual App
+ # 🧠 Gradient Descent Visual App
 
-A user-friendly Streamlit web app to explore and visualize **Gradient Descent** for both regression and classification tasks.
+## A user-friendly Streamlit web application for exploring and visualizing Gradient Descent.
 
 ---
+
 
 ## 🚀 Key Features
 
